@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05103cd4-064f-450f-9752-1c12e679a031" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/BarChart.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PieChart.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/bar/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GeographyChart.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LineChart.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/geography/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/line/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/pie/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PieChart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PieChart.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +53,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Georginio\Desktop\Dashboard\react-\src\scenes\line" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698055168360</updated>
-      <workItem from="1698055168364" duration="10128000" />
+      <workItem from="1698055168364" duration="11171000" />
     </task>
     <servers />
   </component>
