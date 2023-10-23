@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05103cd4-064f-450f-9752-1c12e679a031" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/scenes/calendar/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/faq/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BarChart.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PieChart.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/bar/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698055168360</updated>
-      <workItem from="1698055168364" duration="8450000" />
+      <workItem from="1698055168364" duration="10128000" />
     </task>
     <servers />
   </component>
